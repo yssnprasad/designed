@@ -6,7 +6,6 @@ Page. The design reference is provided in the attached file named "designed-1." 
 HTML
 and CSS to bring this design to life, ensuring responsiveness across various devices. 
 • Development Tools: Use HTML and CSS for the implementation.
-Mention name or emai Id: yelidsettinagendra@gmail.com
 • Task Title: Designed
 • Task Description: 
 Task One: Responsive Company Member Team Page
